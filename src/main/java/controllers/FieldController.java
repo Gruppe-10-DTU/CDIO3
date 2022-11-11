@@ -134,7 +134,6 @@ public class FieldController {
                 }
             }
 
-
             if (newLocation < location) {
                 spaces = newLocation + (24 - location);
             } else {
