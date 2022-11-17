@@ -159,7 +159,6 @@ public class FieldController {
                 }
             }
 
-
             if (newLocation < location) {
                 spaces = newLocation + (fieldArrayList.size() - location);
             } else {
