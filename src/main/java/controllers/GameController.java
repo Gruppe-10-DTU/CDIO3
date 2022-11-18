@@ -181,7 +181,7 @@ public class GameController implements ActionListener {
                 }while (drawAgain);
                 break;
             }
-            case "Start": {
+            case "com.gruppe10.Start": {
                 guiController.displayMsg(language.getLanguageValue("fieldLandStart"));
                 break;
             }

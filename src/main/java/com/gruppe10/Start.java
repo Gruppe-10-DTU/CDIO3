@@ -1,3 +1,5 @@
+package com.gruppe10;
+
 import controllers.GameController;
 import gui_main.GUI;
 

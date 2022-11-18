@@ -45,7 +45,7 @@ public class FieldController {
                     empty.setID(i);
                     empty.setName(language.getLanguageValue("fieldName" + i));
                     break;
-                case "Start":
+                case "com.gruppe10.Start":
                     Start start = new Start();
                     fieldArrayList.add(start);
                     start.setID(i);

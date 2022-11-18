@@ -87,7 +87,7 @@ public class GUIConverter {
                     fields[field.getID()] = new GUI_Chance("", field.getName(), "", Color.white, Color.black);
                     break;
                 }
-                case "Start": {
+                case "com.gruppe10.Start": {
                     fields[field.getID()] = new GUI_Start(field.getName(), "", "", Color.white, Color.black);
                     break;
                 }

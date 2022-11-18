@@ -29,7 +29,7 @@ class FieldControllerTest {
     void setUp() {
         fieldcontroller.fieldArrayList.clear();
 
-        CSVMock.add(new ArrayList<>(Arrays.asList("Start")));
+        CSVMock.add(new ArrayList<>(Arrays.asList("com.gruppe10.Start")));
         CSVMock.add(new ArrayList<>(Arrays.asList("Property","BROWN","3")));
         CSVMock.add(new ArrayList<>(Arrays.asList("Empty")));
         CSVMock.add(new ArrayList<>(Arrays.asList("Chance")));
